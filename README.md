@@ -12,7 +12,7 @@ In this lab, I practiced how to:
 - Upload objects (files) into a bucket  
 - Organize objects using folders and subfolders  
 - Configure public access for objects  
-- Delete buckets and understand lifecycle behavior  
+- Delete objects and understand lifecycle behavior  
 
 ---
 
