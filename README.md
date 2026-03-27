@@ -62,11 +62,11 @@ In this lab, I practiced how to:
 
 ---
 
-### 5. Deleted the Bucket
-- Returned to the bucket list  
-- Selected the bucket and clicked **Delete**  
-- Typed `DELETE` to confirm  
-- Removed all objects and subfolders as part of the deletion  
+### 5. Deleted a Folder and File
+- Returned to the objects list  
+- Selected the folder and file and clicked **Delete**  
+- Typed `DELETE` to confirm
+  
 
 ---
 
