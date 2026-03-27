@@ -38,15 +38,44 @@ In this lab, I practiced how to:
 
 ---
 
-### **2. Uploaded an Object**
+### 2. Uploaded an Object
 - Downloaded the provided `kitten.png` image  
 - Uploaded it into the bucket using Upload → Upload files  
 - Verified metadata such as size and MIME type  
 
 ---
 
-### **3. Made the Object Public**
+### 3. Made the Object Public
 - Opened the Permissions tab  
 - Granted `allUsers` the Storage Object Viewer role  
 - Confirmed public access  
 - Copied the public URL:
+
+---
+
+
+
+### 4. Created Folders and Subfolders
+- Created `folder1/`  
+- Inside it, created `folder2/`  
+- Uploaded a screenshot into the subfolder  
+
+---
+
+### 5. Deleted the Bucket
+- Returned to the bucket list  
+- Selected the bucket and clicked **Delete**  
+- Typed `DELETE` to confirm  
+- Removed all objects and subfolders as part of the deletion  
+
+---
+
+## 📝 Key Concepts Reinforced
+
+| Concept | Summary |
+|--------|---------|
+| **Buckets** | Globally unique containers for objects |
+| **Objects** | Files stored in Cloud Storage; names must be unique *within a bucket* |
+| **Public Access** | Controlled via IAM roles such as `Storage Object Viewer` |
+| **Folder Structure** | Logical organization; GCS is technically flat but simulates folders |
+| **Uniform Access Control** | Permissions applied at the bucket level |
